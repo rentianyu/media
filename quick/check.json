@@ -11,7 +11,7 @@
             "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_dingding.png",
             "name": "钉钉打卡",
             "path": "dingtalk://dingtalkclient/page/link?url=https://attend.dingtalk.com/attend/index.html",
-            "subname": "钉钉",
+            "subname": "钉钉"
         },
         {
             "name": "云闪付_天天签到",
