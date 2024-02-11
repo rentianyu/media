@@ -1,0 +1,15 @@
+{
+    "data": [
+        {
+            "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_douyin.png",
+            "name": " ",
+            "pkg": "com.syyf.quickpay",
+            "path": "com.syyf.quickpay.act.RulesActivity",
+            "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/media/main/quick/check.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"签到合集\"}]}",
+            "title": "A 抖音合集",
+            "type": 0,
+            "directly": true,
+            "version": 71
+        }
+    ]
+}
