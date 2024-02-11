@@ -7,6 +7,17 @@
             "path": "#Intent;action=com.tencent.mm.action.BIZSHORTCUT;launchFlags=0x14000000;package=com.tencent.mm;B.LauncherUI.From.Scaner.Shortcut=true;end",
             "type": 2,
             "icon": "android.resource://com.syyf.quickpay/drawable/quick_weixin_scan"
+        },
+        {
+            "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_douyin.png",
+            "name": " ",
+            "pkg": "com.syyf.quickpay",
+            "path": "com.syyf.quickpay.act.RulesActivity",
+            "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://gitee.com/night99/filebackup/raw/master/quickpay/rule/rules-dy.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"抖音合集\"}]}",
+            "title": "A 抖音合集",
+            "type": 0,
+            "directly": true,
+            "version": 71
         }
     ]
 }
