@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "name": "扫一扫",
+            "subname": "微信",
+            "title": "A旧版微信扫一扫",
+            "path": "#Intent;action=com.tencent.mm.action.BIZSHORTCUT;launchFlags=0x14000000;package=com.tencent.mm;B.LauncherUI.From.Scaner.Shortcut=true;end",
+            "type": 2,
+            "icon": "android.resource://com.syyf.quickpay/drawable/quick_weixin_scan"
+        }
+    ]
+}
